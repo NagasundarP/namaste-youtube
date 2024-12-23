@@ -69,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # namaste-youtube
+
+
+
+Namaste youtbe 
+
+![Getting Started](./public/youtubeLanding.png)
+
+Live Video Streaming and chat 
+
+![Live CHat](./public/LiveChat.png)
